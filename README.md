@@ -138,3 +138,12 @@ The tool provides visual representations of the analysis using radar charts:
 
     Single File Analysis: Displays the dimensions and their scores for one text.
     Multiple Files Comparison: Compares multiple texts on the same radar chart for easy comparison.
+
+License
+
+This project is licensed under the terms of the MIT license. See the LICENSE file for details.
+Acknowledgments
+
+    NLTK: Natural Language Toolkit for Python.
+    Hugging Face Transformers: Used for implementing advanced language models.
+    Matplotlib: For generating radar charts and other visualizations.
