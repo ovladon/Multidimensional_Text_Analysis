@@ -1,0 +1,44 @@
+#requirements.py
+
+# Core NLP libraries and transformers for handling models and pipelines
+transformers==4.28.1
+torch==1.12.1
+tokenizers==0.12.1
+
+# NLP libraries for text processing and classification
+spacy==3.2.1
+scikit-learn==1.0.2
+nltk==3.6.7
+
+# Named Entity Recognition and dependency parsing
+spacy-transformers==1.1.4
+
+# Additional NLP tools for sentiment and text classification
+textblob==0.15.3
+vaderSentiment==3.3.2
+
+# PDF, DOCX, and other text extraction libraries
+PyMuPDF==1.18.19  # For PDF text extraction
+pdfplumber==0.5.28
+python-docx==0.8.11
+pandas==1.3.5  # For handling .csv and other structured data files
+
+# Web scraping for text extraction from URLs
+beautifulsoup4==4.10.0
+requests==2.26.0
+
+# Visualization tools for radar/spider charts and other outputs
+matplotlib==3.5.1
+streamlit==1.6.0
+
+# Word embeddings and additional linguistic tools
+gensim==4.0.1
+sentence-transformers==2.1.0
+
+# Text readability and complexity
+textstat==0.7.3
+
+# Utilities for working with temporary files and general Python environment
+tempfile==2.3.6
+psutil==5.8.0
+
